@@ -7,7 +7,7 @@ This Python script converts MIPS assembly instructions to machine code. It reads
 
 1. Ensure you have Python installed on your system.
 2. Create or modify the `test.asm` file with your MIPS assembly instructions.
-3. Run the Python script using the command `python mips_asm_to_machine_code.py`.
+3. Run the Python script using the command `python main.py`.
 4. Check the generated `intr_mem.bin` and `intr_mem.hex` files for the corresponding binary and hexadecimal machine code, respectively.
 
 ## Instruction Formats Supported
